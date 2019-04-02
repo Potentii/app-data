@@ -1,0 +1,29 @@
+{
+  "name": "@potentii/app-data",
+  "version": "1.0.1",
+  "description": "A simple data persistence layer for applications",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "data",
+    "persistence",
+    "store",
+    "info",
+    "object",
+    "array"
+  ],
+  "files": [
+    "main.js",
+    "README.md",
+    "LICENSE",
+    "libs/"
+  ],
+  "author": "Guilherme Reginaldo Ruella <potentii@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "0.5.1"
+  }
+}
